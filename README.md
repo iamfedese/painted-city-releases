@@ -4,7 +4,7 @@ A living watercolour wallpaper for your Mac. It paints your city live from OpenS
 
 ## Install
 
-1. Download **PaintedCity-x.y.zip** from the [latest release](https://github.com/iamfedese/painted-city-releases/releases/latest).
+1. **[Download PaintedCity.zip](https://github.com/iamfedese/painted-city-releases/releases/latest/download/PaintedCity.zip)**: always the newest version.
 2. Unzip it and drag **PaintedCity** to your Applications folder.
 3. **First launch only:** macOS says it can't verify the developer, because this is a hobby project and not from the App Store.
    - **macOS 14:** right-click the app and choose **Open**, then **Open** again.
