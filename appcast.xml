@@ -3,13 +3,14 @@
   <channel>
     <title>Painted City</title>
     <item>
-      <title>Painted City 1.1</title>
-      <pubDate>Thu, 12 Nov 2026 08:33:19 +0000</pubDate>
-      <sparkle:version>31</sparkle:version>
-      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
+      <title>Painted City 1.2</title>
+      <pubDate>Thu, 12 Nov 2026 15:49:59 +0000</pubDate>
+      <sparkle:version>33</sparkle:version>
+      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>A new control panel with a compass and camera controls. Landmarks: a true Globen, Luma's LUMA signs, Stockholm City Hall's arched windows and deep red brick. New cars and buses, Östgötatrafiken's livery, dimmer windows on vehicles at dusk. Voyado's offices as places to pick.</p>]]></description>
-      <enclosure url="https://github.com/iamfedese/painted-city-releases/releases/download/v1.1/PaintedCity-1.1.zip" type="application/octet-stream" sparkle:edSignature="7rI2CuEPb3eFUWHOAxinrbXW9WmpI4NMD+nIcAq4ZGR/rr91mSiGNG1qPBlIRmbqRTqzFWnIMeEx+gvaxdQiBw==" length="4016235" />
+      <description><![CDATA[<p>Your building now shows its real height: the app skips map servers with out-of-date copies of OpenStreetMap.</p>
+<p>Screen Print: no more orange lines round tree trunks or fringes along lawns and roads.</p>]]></description>
+      <enclosure url="https://github.com/iamfedese/painted-city-releases/releases/download/v1.2/PaintedCity-1.2.zip" type="application/octet-stream" sparkle:edSignature="zO1494MCiqYodfWOt/ME830a8mb/hqutCeODpSQ5IU67l24hSETGPK0BD0pfLuWZd04Ln38PB0zlidn8RT35CA==" length="4027694" />
     </item>
   </channel>
 </rss>
