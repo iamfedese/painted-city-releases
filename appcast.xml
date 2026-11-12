@@ -3,14 +3,16 @@
   <channel>
     <title>Painted City</title>
     <item>
-      <title>Painted City 1.2</title>
-      <pubDate>Thu, 12 Nov 2026 15:49:59 +0000</pubDate>
-      <sparkle:version>33</sparkle:version>
-      <sparkle:shortVersionString>1.2</sparkle:shortVersionString>
+      <title>Painted City 1.3</title>
+      <pubDate>Thu, 12 Nov 2026 18:40:31 +0000</pubDate>
+      <sparkle:version>39</sparkle:version>
+      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Your building now shows its real height: the app skips map servers with out-of-date copies of OpenStreetMap.</p>
-<p>Screen Print: no more orange lines round tree trunks or fringes along lawns and roads.</p>]]></description>
-      <enclosure url="https://github.com/iamfedese/painted-city-releases/releases/download/v1.2/PaintedCity-1.2.zip" type="application/octet-stream" sparkle:edSignature="zO1494MCiqYodfWOt/ME830a8mb/hqutCeODpSQ5IU67l24hSETGPK0BD0pfLuWZd04Ln38PB0zlidn8RT35CA==" length="4027694" />
+      <description><![CDATA[<p>Boats and ships in the water are drawn as boats, with masts on sailing ships, never as buildings.</p>
+<p>Quays stay level up to the water, and buses cross bridges level instead of dipping to the water (outside Sweden's survey data, roofs are taken out of the height data).</p>
+<p>The menu: tap the place's name to change it, and turn the view with a compass right under it. The buttons at the bottom say what they do.</p>
+<p>New install: paste one line into Terminal (see the release page).</p>]]></description>
+      <enclosure url="https://github.com/iamfedese/painted-city-releases/releases/download/v1.3/PaintedCity-1.3.zip" type="application/octet-stream" sparkle:edSignature="+MuHRo2RyQOE2oUWqfrg69dSHjwPVIzeE/QdMJ/p/tU4qMe0BuuT4l6mA4wDaM98LmSiicxyvurSm0iSDGALBw==" length="4086876" />
     </item>
   </channel>
 </rss>
