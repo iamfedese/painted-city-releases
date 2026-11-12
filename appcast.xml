@@ -3,13 +3,13 @@
   <channel>
     <title>Painted City</title>
     <item>
-      <title>Painted City 1.0</title>
-      <pubDate>Wed, 11 Nov 2026 14:45:00 +0000</pubDate>
-      <sparkle:version>22</sparkle:version>
-      <sparkle:shortVersionString>1.0</sparkle:shortVersionString>
+      <title>Painted City 1.1</title>
+      <pubDate>Thu, 12 Nov 2026 08:33:19 +0000</pubDate>
+      <sparkle:version>31</sparkle:version>
+      <sparkle:shortVersionString>1.1</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>The first release of Painted City: a living painting of your city, with seven painting styles (Ink &amp; Wash, Plein Air, Wet-in-Wet, Gouache, Coloured Pencil, Toon &amp; Sketch and Screen Print), the real sun and weather, and people, buses, ferries and trains moving through it.</p>]]></description>
-      <enclosure url="https://github.com/iamfedese/painted-city-releases/releases/download/v1.0/PaintedCity-1.0.zip" type="application/octet-stream" sparkle:edSignature="PwSUNMy20xROKZsgwhL1mvVEGUd9Ojt4c0jw6aOr6L0eSPZnqcHqQ2eFw2UsccrivQTmAVedIw1thpnKCacxBg==" length="3496932" />
+      <description><![CDATA[<p>A new control panel with a compass and camera controls. Landmarks: a true Globen, Luma's LUMA signs, Stockholm City Hall's arched windows and deep red brick. New cars and buses, Östgötatrafiken's livery, dimmer windows on vehicles at dusk. Voyado's offices as places to pick.</p>]]></description>
+      <enclosure url="https://github.com/iamfedese/painted-city-releases/releases/download/v1.1/PaintedCity-1.1.zip" type="application/octet-stream" sparkle:edSignature="7rI2CuEPb3eFUWHOAxinrbXW9WmpI4NMD+nIcAq4ZGR/rr91mSiGNG1qPBlIRmbqRTqzFWnIMeEx+gvaxdQiBw==" length="4016235" />
     </item>
   </channel>
 </rss>
