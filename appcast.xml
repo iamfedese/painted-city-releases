@@ -3,16 +3,15 @@
   <channel>
     <title>Painted City</title>
     <item>
-      <title>Painted City 1.3</title>
-      <pubDate>Thu, 12 Nov 2026 18:40:31 +0000</pubDate>
-      <sparkle:version>39</sparkle:version>
-      <sparkle:shortVersionString>1.3</sparkle:shortVersionString>
+      <title>Painted City 1.4</title>
+      <pubDate>Thu, 12 Nov 2026 22:22:42 +0000</pubDate>
+      <sparkle:version>42</sparkle:version>
+      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Boats and ships in the water are drawn as boats, with masts on sailing ships, never as buildings.</p>
-<p>Quays stay level up to the water, and buses cross bridges level instead of dipping to the water (outside Sweden's survey data, roofs are taken out of the height data).</p>
-<p>The menu: tap the place's name to change it, and turn the view with a compass right under it. The buttons at the bottom say what they do.</p>
-<p>New install: paste one line into Terminal (see the release page).</p>]]></description>
-      <enclosure url="https://github.com/iamfedese/painted-city-releases/releases/download/v1.3/PaintedCity-1.3.zip" type="application/octet-stream" sparkle:edSignature="+MuHRo2RyQOE2oUWqfrg69dSHjwPVIzeE/QdMJ/p/tU4qMe0BuuT4l6mA4wDaM98LmSiicxyvurSm0iSDGALBw==" length="4086876" />
+      <description><![CDATA[<p>A simpler menu: the place, the time and weather, a compass and the painting style. Tap the time to pick the time of day and weather.</p>
+<p>Pause, lock screen, view &amp; rendering and quit are in the "…" menu.</p>
+<p>The compass turns the short way round, and the menu-bar icon is now a framed picture.</p>]]></description>
+      <enclosure url="https://github.com/iamfedese/painted-city-releases/releases/download/v1.4/PaintedCity-1.4.zip" type="application/octet-stream" sparkle:edSignature="xVwfP3BFNn3aO7DkzRf2+OxaySBCCHPC/T0rhxL3apICWWINsJ/S3UCRGRc96/r4VUOKNtjVBDr5WX8jqbEQDg==" length="4122836" />
     </item>
   </channel>
 </rss>
