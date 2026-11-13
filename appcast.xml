@@ -3,15 +3,15 @@
   <channel>
     <title>Painted City</title>
     <item>
-      <title>Painted City 1.4</title>
-      <pubDate>Thu, 12 Nov 2026 22:22:42 +0000</pubDate>
-      <sparkle:version>42</sparkle:version>
-      <sparkle:shortVersionString>1.4</sparkle:shortVersionString>
+      <title>Painted City 1.5</title>
+      <pubDate>Fri, 13 Nov 2026 12:22:20 +0000</pubDate>
+      <sparkle:version>48</sparkle:version>
+      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>A simpler menu: the place, the time and weather, a compass and the painting style. Tap the time to pick the time of day and weather.</p>
-<p>Pause, lock screen, view &amp; rendering and quit are in the "…" menu.</p>
-<p>The compass turns the short way round, and the menu-bar icon is now a framed picture.</p>]]></description>
-      <enclosure url="https://github.com/iamfedese/painted-city-releases/releases/download/v1.4/PaintedCity-1.4.zip" type="application/octet-stream" sparkle:edSignature="xVwfP3BFNn3aO7DkzRf2+OxaySBCCHPC/T0rhxL3apICWWINsJ/S3UCRGRc96/r4VUOKNtjVBDr5WX8jqbEQDg==" length="4122836" />
+      <description><![CDATA[<p>Three new painting styles: Cubism and Cubism Monotone (houses bent out of true, like a naive hill-town painting) and Expressionism (oil paint: brush daubs that follow the forms, thick strokes lit like real paint).</p>
+<p>Screen Print: no more orange specks in the shade around trees and windows, and rooftop signs print as whole letters.</p>
+<p>Experimental: painted trees, a switch in the … menu.</p>]]></description>
+      <enclosure url="https://github.com/iamfedese/painted-city-releases/releases/download/v1.5/PaintedCity-1.5.zip" type="application/octet-stream" sparkle:edSignature="BKfow4FVQXgYmntRXEkN0jFCfZPR+Yhjjqo6yKNbPgvk/opOy1QX2Ad7Sa3Hy+sanxlz5X1ve9r+2I44lNFVAg==" length="4140891" />
     </item>
   </channel>
 </rss>
