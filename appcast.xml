@@ -3,15 +3,15 @@
   <channel>
     <title>Painted City</title>
     <item>
-      <title>Painted City 1.5</title>
-      <pubDate>Fri, 13 Nov 2026 12:22:20 +0000</pubDate>
-      <sparkle:version>48</sparkle:version>
-      <sparkle:shortVersionString>1.5</sparkle:shortVersionString>
+      <title>Painted City 1.6</title>
+      <pubDate>Fri, 27 Nov 2026 11:56:19 +0000</pubDate>
+      <sparkle:version>55</sparkle:version>
+      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>Three new painting styles: Cubism and Cubism Monotone (houses bent out of true, like a naive hill-town painting) and Expressionism (oil paint: brush daubs that follow the forms, thick strokes lit like real paint).</p>
-<p>Screen Print: no more orange specks in the shade around trees and windows, and rooftop signs print as whole letters.</p>
-<p>Experimental: painted trees, a switch in the … menu.</p>]]></description>
-      <enclosure url="https://github.com/iamfedese/painted-city-releases/releases/download/v1.5/PaintedCity-1.5.zip" type="application/octet-stream" sparkle:edSignature="BKfow4FVQXgYmntRXEkN0jFCfZPR+Yhjjqo6yKNbPgvk/opOy1QX2Ad7Sa3Hy+sanxlz5X1ve9r+2I44lNFVAg==" length="4140891" />
+      <description><![CDATA[<p>New theme: Paper Miniature, the city as a tabletop model cut from paper and card.</p>
+<p>The map shows more of the ground: street surfaces, streams, rock, wetlands, walls and fences.</p>
+<p>Small structures appear too: chimneys, masts, towers, pylons, fountains and playgrounds.</p>]]></description>
+      <enclosure url="https://github.com/iamfedese/painted-city-releases/releases/download/v1.6/PaintedCity-1.6.zip" type="application/octet-stream" sparkle:edSignature="rIeNRlEqyC4R50TzlCW7DZvMW3jjjs4jDB8Us1rhHu21DR4eOIIwimEeUUfqHMorPnwVPlUI9CaTQyGXIUdYCQ==" length="4350814" />
     </item>
   </channel>
 </rss>
