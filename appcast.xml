@@ -3,15 +3,16 @@
   <channel>
     <title>Painted City</title>
     <item>
-      <title>Painted City 1.6</title>
-      <pubDate>Fri, 27 Nov 2026 11:56:19 +0000</pubDate>
-      <sparkle:version>55</sparkle:version>
-      <sparkle:shortVersionString>1.6</sparkle:shortVersionString>
+      <title>Painted City 1.7</title>
+      <pubDate>Fri, 27 Nov 2026 15:26:34 +0000</pubDate>
+      <sparkle:version>57</sparkle:version>
+      <sparkle:shortVersionString>1.7</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>14.0</sparkle:minimumSystemVersion>
-      <description><![CDATA[<p>New theme: Paper Miniature, the city as a tabletop model cut from paper and card.</p>
-<p>The map shows more of the ground: street surfaces, streams, rock, wetlands, walls and fences.</p>
-<p>Small structures appear too: chimneys, masts, towers, pylons, fountains and playgrounds.</p>]]></description>
-      <enclosure url="https://github.com/iamfedese/painted-city-releases/releases/download/v1.6/PaintedCity-1.6.zip" type="application/octet-stream" sparkle:edSignature="rIeNRlEqyC4R50TzlCW7DZvMW3jjjs4jDB8Us1rhHu21DR4eOIIwimEeUUfqHMorPnwVPlUI9CaTQyGXIUdYCQ==" length="4350814" />
+      <description><![CDATA[<p>Winter comes to the city: frost on grass and roofs on cold mornings, lingering in the shade.</p>
+<p>Lakes and bays freeze over after a cold spell, from the shore out, and snow stays on the ground.</p>
+<p>Frosty days are lit by a pale, cold sun with blue shadows.</p>
+<p>New weather choice: Frost and Ice.</p>]]></description>
+      <enclosure url="https://github.com/iamfedese/painted-city-releases/releases/download/v1.7/PaintedCity-1.7.zip" type="application/octet-stream" sparkle:edSignature="L+N2Wzr8PmAaIcNMFQKm54s4A6fde4ZXhgwKOXsJpGdZbaAaIQ4TlXcprlY/rThZG7uiy02Ma53Z9GzwkyujDw==" length="4367410" />
     </item>
   </channel>
 </rss>
